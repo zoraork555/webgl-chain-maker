@@ -1,5 +1,5 @@
 # webgl-chain-maker
-This project uses base WebGL and tools by Ed Angel to create a tool that can make many chain links that can be used to draw. This program implements a visual program with six distinctly colored "links." They're called links because they look like links of a chain. These links are base links that can be used to create copies. There is no more functionality to the base links other than to create copies.
+This project uses base WebGL to create a tool that can make many chain links that can be used to draw. This program implements a visual program with six distinctly colored "links." They're called links because they look like links of a chain. These links are base links that can be used to create copies. There is no more functionality to the base links other than to create copies.
 
 ## Controls
 The copies can be dragged around the gray background.  
