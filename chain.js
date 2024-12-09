@@ -1,5 +1,3 @@
-// CS535, Project #2, Ashton Johnson
-// 
 // This program implements a visual program with six distinctly colored "links."
 // They're called links because they look like links of a chain.
 // These links are base links that can be used to create copies.
